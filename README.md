@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning Python and Java
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: Ela/Dela
 
  <div>
   <a href="https://github.com/yayahsilva">
