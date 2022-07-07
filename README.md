@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Java
 - 😄 Pronouns: ela/dela
 
  <div>
