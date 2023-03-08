@@ -1,11 +1,12 @@
-### Olá! Eu sou a Mayara Silva 
+### Olá! Eu sou a Mayara Silva. 
 
-# Hello my name is Mayara Silva!
+# :wave: Hello I'm Mayara Silva, a brazilian programmer.
 
+## **:desktop_computer:	 About me:**
 
+* Mayara Silva, 20 years
+* Currently studying JavaScript and Python 
 
-- 🌱 I’m currently learning Javascript and Python  
-- 😄 Pronouns: Ela/Dela
 
  <div>
   <a href="https://github.com/yayahsilva">
@@ -13,7 +14,7 @@
   <img width="48%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yayahsilva&layout=compact&langs_count=16&theme=dracula">
  </div>
  
-</div style="display: inline block"><br>
+ <div style="display: inline_block"><br>
   <img align="center" alt="Yayah-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Yayah-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="Yayah-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
