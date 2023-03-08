@@ -7,7 +7,12 @@
 * Currently studying JavaScript and Python 
 * Student of Computer Engineering since 2022
 
+<img align="center" alt="Yayah-student" height="270" style="border-radius:90px;" src="https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif">
+
 ##
+
+ <img align="right" alt="Yayah-gif" height="250" style="border-radius:50px;" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+
 
  <div>
   <a href="https://github.com/yayahsilva">
