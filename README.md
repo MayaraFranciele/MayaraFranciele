@@ -3,9 +3,9 @@
 
 ### **:desktop_computer:	 About me:**
 
-* Mayara Silva, 20 years
-* Currently studying JavaScript and Python 
-* Student of Computer Engineering since 2022
+* Mayara Silva, 20 years.
+* Currently studying JavaScript and Python. 
+* Student of Computer Engineering since 2022.
 
 <img align="center" alt="Yayah-student" height="270" style="border-radius:90px;" src="https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif">
 
