@@ -4,6 +4,7 @@
 ### **:desktop_computer:	 About me:**
 
 * Mayara Silva, 20 years.
+* I live in Brazil.
 * Currently studying JavaScript and Python. 
 * Student of Computer Engineering since 2022.
 
