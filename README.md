@@ -8,7 +8,7 @@
 * Currently studying JavaScript and Python. 
 * Student of Computer Engineering since 2022.
 
-<img align="center" alt="Yayah-student" height="270" style="border-radius:90px;" src="https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif">
+<img align="center" alt="Yayah-student" height="250" style="border-radius:90px;" src="https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif">
 
 ##
 
