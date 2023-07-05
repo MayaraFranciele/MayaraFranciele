@@ -1,5 +1,5 @@
 
-# :wave: Hello I'm Mayara Silva, a brazilian programmer.
+# :wave: Hello I'm Mayara Franciele, a brazilian programmer.
 
 ### **:desktop_computer:	 About me:**
 
