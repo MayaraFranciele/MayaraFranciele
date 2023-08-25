@@ -5,7 +5,7 @@
 
 * Mayara Franciele, 21 years.
 * I live in São Paulo.
-* Currently studying JavaScript and Python. 
+* Currently studying JavaScript. 
 * Student of Computer Engineering since 2022.
 
 <img align="center" alt="Yayah-student" height="225" style="border-radius:90px;" src="https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif">
