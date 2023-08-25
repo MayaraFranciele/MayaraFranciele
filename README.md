@@ -5,6 +5,7 @@
 
 * Mayara Franciele, 21 years.
 * I live in São Paulo.
+* Intern Full Stack Developer.
 * Currently studying JavaScript. 
 * Student of Computer Engineering since 2022.
 
