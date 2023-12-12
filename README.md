@@ -1,7 +1,7 @@
 
 # :wave: Hello I'm Mayara Franciele, a brazilian programmer.
 
-### **:desktop_computer:	 About me:**
+### **About me:**
 
 * Mayara Franciele, 21 years.
 * I live in São Paulo.
