@@ -1,9 +1,9 @@
 
-# :wave: Hello I'm Mayara Franciele, a brazilian programmer.
+# :wave: Hello I'm Mayara Silva, a brazilian programmer.
 
 ### **About me:**
 
-* Mayara Franciele, 21 years.
+* Mayara Franciele, 22 years.
 * I live in São Paulo.
 * Software Engineer Intern.
 * Student of Computer Engineering since 2022.
