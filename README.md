@@ -3,7 +3,7 @@
 
 ### **About me:**
 
-* Mayara Franciele, 22 years.
+* Mayara Franciele.
 * I live in São Paulo.
 * Software Engineer Intern.
 * Student of Computer Engineering since 2022.
